@@ -1,0 +1,11 @@
+package com.Check.Pass.Fail;
+
+public class CheckPassFail {
+public static void main(String[] args){
+	int mark=50;
+	System.out.println("mark is"+ mark);
+}
+if (a>45){
+	System.out.println("Mark is"+ mark);
+}
+}
